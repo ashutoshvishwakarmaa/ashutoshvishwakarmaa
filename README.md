@@ -1,7 +1,6 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-<h1 align="center">Hi 👋, I'm Ashutosh Vishwakarma</h1>
-<h3 align="center">A passionate Software & Automation Engineer | India 🇮🇳</h3>
-
+<h2 align="center">Hi 👋</h2>
+<h1 align="center">I'm Ashutosh Vishwakarma</h1>
+<h2 align="center">A passionate Software & Automation Engineer | India 🇮🇳</h2>
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashutoshvishwakarmaa&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshvishwakarmaa" /> </p>
 <p align="center"> <img src="https://img.shields.io/github/followers/ashutoshvishwakarmaa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917&style=flat" alt="ashutoshvishwakarmaa" /> </p>
@@ -9,10 +8,9 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashutoshvishwakarmaa&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshvishwakarmaa" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/ashutoshvishwakarmaa?logo=github&style=flat&color=0e75b6" alt="ashutoshvishwakarmaa" />
-  <a href="https://github.com/ashutoshvishwakarmaa?tab=repositories&sort=stargazers">
+  <img src=https://komarev.com/ghpvc/?username=AshuutoshVish >
+  <img src="https://komarev.com/ghpvc/?username=ashutoshvishwakarmaa&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshvishwakarmaa" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/ashutoshvishwakarmaa?label=Followers&logo=github&style=flat&color=0e75b6" alt="ashutoshvishwakarmaa" /><a href="https://github.com/ashutoshvishwakarmaa?tab=repositories&sort=stargazers">
   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ashutoshvishwakarmaa?color=0e75b6&style=flat&logo=star"/></a>
 </p>
   
@@ -22,7 +20,7 @@
 
 - 🔭 I’m currently working on **Django, REST APIs, and Workflow Automation**
 
-- 💬 Ask me about **Python, REST APIs, Database, Workflows, Machine Learning & Automation**
+- 💬 Ask me about **Python, REST APIs, Databases, Workflows, Machine Learning & Automation**
 
 - 📫 How to reach me **ashusharma3535@gmail.com**
 
