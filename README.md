@@ -10,6 +10,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashutoshvishwakarmaa&label=Profile%20views&color=0e75b6&style=flat"/> &nbsp;&nbsp;
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ashutoshvishwakarmaa.ashutoshvishwakarmaa" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/ashutoshvishwakarmaa?label=Followers&logo=github&style=flat&color=0e75b6" alt="ashutoshvishwakarmaa" />
     <a href="https://github.com/ashutoshvishwakarmaa?tab=repositories&sort=stargazers">
   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ashutoshvishwakarmaa?color=0e75b6&style=flat&logo=star"/></a>
