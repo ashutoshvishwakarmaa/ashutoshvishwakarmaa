@@ -2,18 +2,19 @@
 <h1 align="center">I'm Ashutosh Vishwakarma</h1>
 <h2 align="center">A passionate Software & Automation Engineer | India 🇮🇳</h2>
 
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashutoshvishwakarmaa&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshvishwakarmaa" /> </p>
+<!-- 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ashutoshvishwakarmaa&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshvishwakarmaa" /> </p>
 <p align="center"> <img src="https://img.shields.io/github/followers/ashutoshvishwakarmaa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917&style=flat" alt="ashutoshvishwakarmaa" /> </p>
-<p align="center"> <a href="https://x.com/ashu_sir_maa" target="blank"><img src="https://img.shields.io/twitter/follow/ashu_sir_maa" &style=flat alt="ashu_sir_maa" target="blank"/></a> </p> -->
-
+<p align="center"> <a href="https://x.com/ashu_sir_maa" target="blank"><img src="https://img.shields.io/twitter/follow/ashu_sir_maa" &style=flat alt="ashu_sir_maa" target="blank"/></a> </p> 
+-->
 
 <p align="center">
-  <img src=https://komarev.com/ghpvc/?username=AshuutoshVish >
-  <img src="https://komarev.com/ghpvc/?username=ashutoshvishwakarmaa&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshvishwakarmaa" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/ashutoshvishwakarmaa?label=Followers&logo=github&style=flat&color=0e75b6" alt="ashutoshvishwakarmaa" /><a href="https://github.com/ashutoshvishwakarmaa?tab=repositories&sort=stargazers">
+  <img src="https://komarev.com/ghpvc/?username=ashutoshvishwakarmaa&label=Profile%20views&color=0e75b6&style=flat"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/ashutoshvishwakarmaa?label=Followers&logo=github&style=flat&color=0e75b6" alt="ashutoshvishwakarmaa" />
+    <a href="https://github.com/ashutoshvishwakarmaa?tab=repositories&sort=stargazers">
   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ashutoshvishwakarmaa?color=0e75b6&style=flat&logo=star"/></a>
 </p>
-  
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 - 🌱 I’m currently learning **AI, Machine Learning, and Backend Automation**
