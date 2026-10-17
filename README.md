@@ -3,17 +3,17 @@
 <h3 align="center">A passionate Software & Automation Engineer | India 🇮🇳</h3>
 
 
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=AshuutoshVish&label=Profile%20views&color=0e75b6&style=flat" alt="AshuutoshVish" /> </p>
-<p align="center"> <img src="https://img.shields.io/github/followers/AshuutoshVish?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917&style=flat" alt="AshuutoshVish" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashutoshvishwakarmaa&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshvishwakarmaa" /> </p>
+<p align="center"> <img src="https://img.shields.io/github/followers/ashutoshvishwakarmaa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917&style=flat" alt="ashutoshvishwakarmaa" /> </p>
 <p align="center"> <a href="https://x.com/ashu_sir_maa" target="blank"><img src="https://img.shields.io/twitter/follow/ashu_sir_maa" &style=flat alt="ashu_sir_maa" target="blank"/></a> </p> -->
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AshuutoshVish&label=Profile%20views&color=0e75b6&style=flat" alt="AshuutoshVish" />
+  <img src="https://komarev.com/ghpvc/?username=ashutoshvishwakarmaa&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshvishwakarmaa" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/AshuutoshVish?logo=github&style=flat&color=0e75b6" alt="AshuutoshVish" />
-  <a href="https://github.com/AshuutoshVish?tab=repositories&sort=stargazers">
-  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AshuutoshVish?color=0e75b6&style=flat&logo=star"/></a>
+  <img src="https://img.shields.io/github/followers/ashutoshvishwakarmaa?logo=github&style=flat&color=0e75b6" alt="ashutoshvishwakarmaa" />
+  <a href="https://github.com/ashutoshvishwakarmaa?tab=repositories&sort=stargazers">
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ashutoshvishwakarmaa?color=0e75b6&style=flat&logo=star"/></a>
 </p>
   
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -28,7 +28,7 @@
 
 - 🌐 Portfolio: https://ashutoshautomations.vercel.app/
 
-- 👨‍💻 All of my projects are available at [https://github.com/AshuutoshVish/](https://github.com/AshuutoshVish/)
+- 👨‍💻 All of my projects are available at [https://github.com/ashutoshvishwakarmaa/](https://github.com/ashutoshvishwakarmaa/)
 
 - ⚡ Fun fact **Automating and Exploring Artificial Intelligence and Machine Learning Things**
 
@@ -81,16 +81,16 @@
 <table>
   <tr>
     <td>
-      <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshuutoshVish&show_icons=true&locale=en&layout=compact" alt="AshuutoshVish" /> -->
-      <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AshuutoshVish&layout=compact&langs_count=8&theme=algolia" alt="AshuutoshVish" />
+      <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshvishwakarmaa&show_icons=true&locale=en&layout=compact" alt="ashutoshvishwakarmaa" /> -->
+      <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashutoshvishwakarmaa&layout=compact&langs_count=8&theme=algolia" alt="ashutoshvishwakarmaa" />
     </td>
     <td>
-      <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AshuutoshVish&show_icons=true&locale=en" alt="AshuutoshVish" /> -->
-      <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AshuutoshVish&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="AshuutoshVish" />
+      <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutoshvishwakarmaa&show_icons=true&locale=en" alt="ashutoshvishwakarmaa" /> -->
+      <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashutoshvishwakarmaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="ashutoshvishwakarmaa" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshuutoshVish" alt="AshuutoshVish" />
-      <!-- <img align="center" src="https://streak-stats.demolab.com/?user=AshuutoshVish&theme=dark" alt="AshuutoshVish" /> -->
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshvishwakarmaa" alt="ashutoshvishwakarmaa" />
+      <!-- <img align="center" src="https://streak-stats.demolab.com/?user=ashutoshvishwakarmaa&theme=dark" alt="ashutoshvishwakarmaa" /> -->
     </td>
   </tr>
 </table>
