@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **ashusharma3535@gmail.com**
 
-- 🌐 Portfolio: https://ashutoshautomations.vercel.app/
+- 🌐 Portfolio: https://ashutoshvishwakarma.vercel.app/
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashutoshvishwakarmaa/](https://github.com/ashutoshvishwakarmaa/)
 
