@@ -30,7 +30,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashutoshvishwakarmaa/](https://github.com/ashutoshvishwakarmaa/)
 
-- ⚡ Fun fact **Automating and Exploring Artificial Intelligence and Machine Learning Things**
+- ⚡ Fun fact: **Automating and Exploring Artificial Intelligence and Machine Learning Things**
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left">Connect with me:</h3>
